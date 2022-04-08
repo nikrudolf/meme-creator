@@ -1,0 +1,30 @@
+.container {
+    margin-top: 50px;
+  }
+  .copy {
+    background-color: #0275d8;
+    margin-top: 20px;
+    display: block;
+    width: 350px;
+  }
+  .home {
+    background-color: #f0ad4e;
+    display: block;
+    width: 350px;
+  }
+
+  .outer{
+    height: 200px;
+    position: relative;
+    border: 3px solid green;
+  }
+
+  .center{
+    display: flex;
+    justify-content: center;
+  }
+
+  .share{
+    margin-right: 20px;
+
+  }
